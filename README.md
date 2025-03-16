@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=header&text=NewArk&fontSize=40&fontAlign=30&fontAlignY=30&desc=没有人比我更关心你&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=I+am+the+deepest+love.!;The+next+girl+is+better+behaved" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=I+am+the+deepest+love!;The+next+girl+is+better+behaved" />
 <br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=81NewArk&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
