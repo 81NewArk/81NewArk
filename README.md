@@ -7,7 +7,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=81NewArk&show_icons=true&count_private=true&theme=dark" />
 </p>
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,qt,vue,vite,spring&theme=light" />
 </p>
 <br/>
 <p align="center">
