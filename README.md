@@ -8,8 +8,6 @@
 </p>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=81NewArk&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<br/>
 <img align="center" width="400" src="https://streak-stats.demolab.com/?user=81NewArk&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 </p>
 
