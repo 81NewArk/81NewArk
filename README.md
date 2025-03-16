@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/QQ-751247667-green?logo=tencentqq" />
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=END&fontSize=90&fontAlign=50&fontAlignY=30&desc=退房之前我最爱你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=END&fontSize=90&fontAlign=50&fontAlignY=30&desc=退房之前我也最爱你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
