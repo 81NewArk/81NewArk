@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=I+am+the+deepest+love!;The+next+girl+is+better+behaved" />
 <br/>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=81NewArk&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=81NewArk&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6](https://github-readme-stats.vercel.app/api?username=sml2h3&show_icons=true&count_private=true&theme=dark" />
 </p>
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,vue,vite,js,md,&theme=light" />
