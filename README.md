@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=NewArk&fontSize=60&fontAlign=50&fontAlignY=30&desc=没有人比我更关心你&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=NewArk&fontSize=40&fontAlign=30&fontAlignY=30&desc=没有人比我更关心你&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=I+am+First+Deep+Love!;Next+Girl+Will+be+Better!" />
@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/QQ-751247667-green?logo=tencentqq" />
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=END&fontSize=60&fontAlign=50&fontAlignY=30&desc=退房之前我也最爱你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=END&fontSize=40&fontAlign=30&fontAlignY=30&desc=退房之前我也最爱你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
