@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=NewArk&fontSize=90&fontAlign=50&fontAlignY=30&desc=&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=NewArk&fontSize=90&fontAlign=50&fontAlignY=30&desc=没有人比我更关心你&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=I+am+First+Deep+Love!;Next+Girl+Will+be+Better!" />
