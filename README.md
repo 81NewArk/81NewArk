@@ -12,15 +12,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=81NewArk&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 
-<p align="center">
-<img align="center" width="400" src="https://streak-stats.demolab.com/?user=81NewArk&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-</p>
-
 <br/>
 
-<p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=81NewArk&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
 
 <br/>
 <p align="center">
