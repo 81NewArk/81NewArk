@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=NewArk&fontSize=40&fontAlign=30&fontAlignY=30&desc=没有人比我更关心你&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=I+am+First+Deep+Love!;Next+Girl+Will+be+Better!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=下+一+个+女+孩!;更+乖!" />
 </p>
 <br/>
 <p align="center">
