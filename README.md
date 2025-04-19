@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=header&text=NewArk&fontSize=50&fontAlign=40&fontAlignY=40&desc=没有人比我更关心你&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=I+am+deeplove+boy !;The+next+girl+is+better+behaved" />
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2070F7&multiline=true&random=true&width=435&lines=I+am++a+deepLove+boy+!" />
 <br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=81NewArk&show_icons=true&count_private=true&theme=dark" />
