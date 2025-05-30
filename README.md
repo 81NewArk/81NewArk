@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=header&text=NewArk&fontSize=50&fontAlign=40&fontAlignY=40&desc=没有人比我更关心你&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
-
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/refs/heads/main/src/header_.png" />
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,qt,vue,vite,spring&theme=light" />
