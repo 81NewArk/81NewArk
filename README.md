@@ -4,6 +4,9 @@
 <br/>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/refs/heads/main/src/header_.png" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2070F7&multiline=true&random=true&width=435&lines=I+am+A+DeepLove+Boy;" />
+ 
+![](https://raw.githubusercontent.com/81NewArk/81NewArk/main/assets/github-contribution-grid-snake.svg)
+
 <br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=81NewArk&show_icons=true&count_private=true&theme=dark" />
