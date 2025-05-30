@@ -1,11 +1,7 @@
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=header&text=NewArk&fontSize=50&fontAlign=40&fontAlignY=40&desc=没有人比我更关心你&descAlign=&descSize=30&descAlignY=60&animation=twinkling" />
-<p align="center">
+
 <br/>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/refs/heads/main/src/header_.png" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2070F7&multiline=true&random=true&width=435&lines=I+am+A+DeepLove+Boy;" />
- 
-![](https://raw.githubusercontent.com/81NewArk/81NewArk/main/assets/github-contribution-grid-snake.svg)
 
 <br/>
 <p align="center">
