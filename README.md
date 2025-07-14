@@ -13,5 +13,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=81NewArk&show_icons=true&count_private=true&theme=dark" />
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=footer&text=END&fontSize=50&fontAlign=40&fontAlignY=40&desc=退房前我也最爱你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=footer&text=END&fontSize=50&fontAlign=40&fontAlignY=40&desc=退房之前我最爱你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
